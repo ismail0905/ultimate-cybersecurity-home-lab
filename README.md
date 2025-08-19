@@ -30,8 +30,7 @@ Network segmentation allows for realistic monitoring, logging, and threat emulat
 
 ## 🧱 Architecture Diagram
 
-![Architecture Diagram](https://github.com/user-attachments/assets/2ab76769-3ce7-4b9f-93ab-30a1e512c746)
-
+<img src="https://github.com/user-attachments/assets/2ab76769-3ce7-4b9f-93ab-30a1e512c746" width="600"/>
 
 🧠 Skills & Concepts Demonstrated
 
