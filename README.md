@@ -12,10 +12,13 @@ It’s designed to be modular and expandable, forming the foundation for follow-
 
 🧰 Lab Environment Setup
 The lab was built on a dedicated machine:
+
 🖥️ Hardware: HP Elite desktop, 32GB RAM, 1TB SSD
+
 🧩 Hypervisor: Proxmox VE (bare-metal install)
 
 👇 Core virtual machines:
+
 VM	Purpose
 pfSense	Firewall + router managing VLAN-style segmentation
 Kali Linux	Attacker/red-team VM used to simulate threats
@@ -35,10 +38,15 @@ Network segmentation allows for realistic monitoring, logging, and threat emulat
 🧠 Skills & Concepts Demonstrated
 
 ✅ Installing and configuring a Type 1 hypervisor (Proxmox)
+
 ✅ Creating isolated virtual networks with bridge interfaces
+
 ✅ Deploying and securing pfSense as a firewall
+
 ✅ Simulating threats and attacker behavior using Kali Linux
+
 ✅ Hosting services and preparing for SIEM integration via Ubuntu Server
+
 ✅ Laying the groundwork for SOC operations, threat detection, and response workflows
 
 💡 What I Learned
