@@ -1,0 +1,27 @@
+# Swap files
+*.swp
+
+# Log files
+*.log
+
+# ISO images
+*.iso
+
+# Temp files
+*.tmp
+*.bak
+*.old
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Proxmox disk images & backups
+*.qcow2
+*.vma
+*.img
+
+# VirtualBox / Vagrant
+.vagrant/
+*.box
+*.ova
